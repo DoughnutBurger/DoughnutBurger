@@ -1,2 +1,2 @@
 ## I am not him yet but one day soon...
-![snake gif](https://github.com/DoughnutBurger/DoughnutBurger/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/DoughnutBurger/DoughnutBurger/blob/output/github-contribution-grid-snake-dark.svg)
