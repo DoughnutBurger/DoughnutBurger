@@ -1,5 +1,7 @@
 ## I am not him yet but one day soon...
+npm install
 
+npm run dev:demo
 <!--
 **DoughnutBurger/DoughnutBurger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
